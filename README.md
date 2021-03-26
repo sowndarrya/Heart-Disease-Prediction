@@ -30,7 +30,7 @@ target: Heart disease (0 = no, 1 = yes)
 * when comp with the target the count is high for those who have heart disease and they also have exang= exercise induced angina
 * Patients who have Heart Disease have downsloping (ST Depression slope in ECG)
 * 0  (MAJOR VESSELS) is high wrt to those who have HD
-* Those who have HD HAVE had Thalessima as shown from the graph
+* Those who have HD HAVE had Thalessima as shown from the graph.
 * Male have high count compared to female in having HD
 * Type 2 cp count is high for those who have HD
 # Models
